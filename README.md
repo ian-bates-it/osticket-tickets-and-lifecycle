@@ -424,5 +424,10 @@ Now the ticket has been assigned to the `Online Banking` team, as shown below.
 
 
 - Navigate to the end-user portal for Users to create tickets at: `http://localhost/osTicket/`
-- 
+- Click `Open a New Ticket` as shown below.
+
+![image](https://github.com/user-attachments/assets/4c7869a0-fa48-4ece-9df4-769cfffa21d8)
+
+
+
 
