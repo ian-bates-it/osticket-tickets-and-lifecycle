@@ -329,10 +329,100 @@ Now the ticket has been assigned to the `Online Banking` team, as shown below.
 
 
 - Log into the Admin Panel with [the Jane Doe account we created in this part of the post-installation setup at this link.](https://github.com/ian-bates-it/osticket-post-installation-setup/blob/main/README.md#create-new-agent-account)
+- Jane Doe is a member of the `Online Banking` Team.
+
+![image](https://github.com/user-attachments/assets/abadb9af-7a6f-4284-b1e3-88336dda541d)
+
+
+
+<br />
+<br />
+
+
+<h3>As User Jane, Assign The Ticket To Yourself</h3>
+
+- To assign the ticket to yourself, click on the hypertext link in the **Assigned To** field.
+
+  <img src="https://github.com/user-attachments/assets/1446d1f7-7532-42f7-bc66-69a349f49ca5" height="50%" width="50%" />
+
+
+<br />
+<br />
+
+
+- Select your name from the **Assignee** drop down menu.
+- Add a brief note that you are taking over the ticket as shown below.
+- Click `Assign` button to complete this process.
+
+
+  <img src="https://github.com/user-attachments/assets/bddce37f-cd58-4527-b3a7-323a41ffac6c" height="50%" width="50%" />
+
+
+<br />
+<br />
+
+- Now the ticket is assigned to `Jane Doe/Online Banking` as shown below.
+
+
+  <img src="https://github.com/user-attachments/assets/919a4d21-21ab-4ef8-9367-1de82d1420a8" height="50%" width="50%" />
+
+
+
+<br />
+<br />
+
+<h3>Provide an Update In the Ticket</h3>
+
+- At the bottom of the ticket, we can provide an update in the `Post Reply` section as shown below.
+
+
+  <img src="https://github.com/user-attachments/assets/4fc29608-f7d4-4490-bf43-68fc3159401c" height="50%" width="50%" />
 
 
 
 
+<br />
+<br />
+
+---
+
+<h2>Resolve and Close the Ticket</h2>
+
+1. In the `Post Reply` text box, provide a description of the actions taken and the ultimate resolution.
+      - An example summary might be something like "_It was determined that the root cause was a recent update. We rolled it back, notified the vendor, and we are waiting for a proper fix. Online banking should now be up and running_".
 
 
+2. In the **Ticket Status** drop down menu at the bottom, we can change the status from `Open (current)` to `Resolved`.
+3. Then click the `Post Reply` button to save our changes as shown below.
+
+
+  <img src="https://github.com/user-attachments/assets/cd6b73fc-46dd-450f-b534-2f4f25faec09" height="70%" width="70%" />
+
+
+<br />
+<br />
+
+---
+
+<h3>Ticket is now resolved and no longer in the `Open` Queue</h3>
+
+- Ticket is resovled as shown below.
+- Closed Tickets Can be viewed if user has appropriate permissions.
+
+![image](https://github.com/user-attachments/assets/2f0f9df9-e2ed-4e7e-9366-030b89a79066)
+
+
+
+
+<br />
+<br />
+
+---
+
+
+<h2>Ticket #2: Accounting Department Needs Adobe Upgrade</h2>
+
+
+- Navigate to the end-user portal for Users to create tickets at: `http://localhost/osTicket/`
+- 
 
