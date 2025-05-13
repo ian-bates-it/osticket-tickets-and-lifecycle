@@ -85,7 +85,7 @@
 
 <h2>Login to the Admin Panel As Agent John</h2>
 
-- In the osTicket post-installation section [we created an agent named `John Doe` which you can view at this link.](- https://github.com/ian-bates-it/osticket-post-installation-setup/blob/main/README.md#add-another-agent-john-doe)
+- In the osTicket post-installation section [we created an agent named `John Doe` which you can view at this link.](https://github.com/ian-bates-it/osticket-post-installation-setup/blob/main/README.md#add-another-agent-john-doe)
 - John Doe's username was `john` so I will log into the `Admin Panel` as `john`
 
   <img src="https://github.com/user-attachments/assets/82fc598a-4642-4d53-8648-3f9ff561ef69" height="40%" width="40%" />
@@ -242,9 +242,96 @@
 
 ---
 
-<h2>Assign Karen Doe's Ticket To A Team</h2>
+<h2>Assign Karen Doe's Ticket To A Team (`Online Banking`)/h2>
+
+<h3>Step 1. Ensure Team has at least 1 agent member</h3>
+
+**In order to assign a ticket to a Team, the Team must have at least 1 member**
+- So in `Admin Panel > Agents > Teams` click on the `Members` tab.
+  - Select the desired agents to join a Team.
+  - Click Add button
+  - Click Save Changes as shown below.
+
+  <img src="https://github.com/user-attachments/assets/f537bd3d-871c-4493-9815-33833d09cad2" height="40%" width="40%" />
+
+
+Now the `Online Banking` Team can be assigned tickets. 
+
+![image](https://github.com/user-attachments/assets/eb653778-3bc5-4b71-a11c-8118af903042)
+
+
+<br />
+<br />
+
+<h3>Step 2. Assign Karen Doe's Ticket To Team `Online Banking`</h3>
 
 - In the open ticket, click on the hypertext link for the `Assigned To` field, which is currently set to `--Unassigned--` as shown below.
+
+  <img src="https://github.com/user-attachments/assets/0398b8aa-6a1d-4c33-b169-7566058b073c" height="50%" width="50%" />
+
+
+<br />
+<br />
+
+---
+
+<h3>Select `Online Banking` Team From Assignee Drop Down</h3>
+
+- Select `Online Banking` from the **Assignee** drop-down menu as shown below.
+
+  <img src="https://github.com/user-attachments/assets/99ea3d06-d86d-4cf5-81d9-040fdd1dde57" height="50%" width="50%" />
+
+
+
+<br />
+<br />
+
+
+<h3>Add A Reason For Assigning Ticket To Team</h3>
+
+- Provide a breif explanation for assigning Karen Doe's ticket to the `Online Banking` Team.
+  - Here, I entered "_Customers are not able to access the online banking portal, assigning to online banking team._" as shown below.
+
+  <img src="https://github.com/user-attachments/assets/07657277-4207-4bd4-a6d2-5f702d4a6128" height="50%" width="50%" />
+
+
+
+
+Now the ticket has been assigned to the `Online Banking` team, as shown below.
+
+![image](https://github.com/user-attachments/assets/8542e88d-f459-43a7-8b81-74b56e384b1d)
+
+
+
+
+<br />
+<br />
+
+
+<h3>Log Out and Log Back In As Jane To Work The Ticket.</h3>
+
+- We are currently logged into the Admin Panel as Agent John.
+
+- When we [set up the agent John account, we did NOT make him a member of the `Online Banking` Team or any other Team, which you can see at this link.](https://github.com/ian-bates-it/osticket-post-installation-setup/blob/main/README.md#add-another-agent-john-doe)
+
+- Because agent John is not a member of the `Online Banking` team, we need to log out and log back in with an agent account that is a member of the `Online Banking` Team.
+
+
+
+
+
+
+<br />
+<br />
+
+
+<h2>Work The Ticket.</h2>
+
+
+- Log into the Admin Panel with [the Jane Doe account we created in this part of the post-installation setup at this link.](https://github.com/ian-bates-it/osticket-post-installation-setup/blob/main/README.md#create-new-agent-account)
+
+
+
 
 
 
