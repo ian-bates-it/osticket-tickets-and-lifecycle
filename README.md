@@ -4,7 +4,7 @@
 
 # Chapter 3: osTicket Tickets and Ticket Lifecycle
 
-- 
+- In this chapter, we will create a ticket about the Online Banking system being down from end-user Karen. Agent `John Doe` will receive the ticket and adjust the SLA and Help Topic on Karen's ticket. Then `John Doe` will assign Karen's ticket to the `Online Banking` team. We will then log out and sign back in as Agent `Jane Doe` who is a member of the `Online Banking` Team. `Jane Doe` will work the ticket to completion. 
 
 <h2>Environments and Technologies Used</h2>
 
@@ -35,13 +35,20 @@
 - Part 3: [Assign Karen Doe's ticket to the Online Banking Team](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#assign-karen-does-ticket-to-a-team-online-banking)
     - Part 3A: [Log out as `John Doe` and log in as `Jane Doe` who is a member of the `Online Banking` Team.](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#log-out-and-log-back-in-as-jane-to-work-the-ticket)
 - Part 4: [Work the Ticket from User `Karen Doe` as Agent `Jane Doe`](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#work-the-ticket)
-- Part 5: []()
+    - Part 4A: [As Agent `Jane Doe` Assign Karen's ticket to yourself.](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#as-agent-jane-assign-the-ticket-to-yourself)
+    - Part 4B: [Provide an update to end-user Karen Doe even though the issue is not yet resolved.](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#provide-an-update-in-the-ticket)
+- Part 5: [Resolve and Properly Close Karen's Ticket](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#resolve-and-close-the-ticket)
+    - Part 5A: [Karen's ticket is now resolved and it's no longer in the `Open` Queue](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#ticket-is-now-resolved-and-no-longer-in-the-open-queue)
+ 
+<!--
+_Come back and complete with the 2nd and 3rd tickets_
 - Part 6: []()
 - Part 7: []()
 - Part 8: []()
 - Part 9: []()
 - Part 10: []()
 
+-->
 
 ---
 ---
