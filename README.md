@@ -32,8 +32,9 @@
     - Part 2A: [Adjust the SLA Severity Level from `Default SLA` to our highest severity level `Sev-A` since the entire network is down.](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#adjust-the-sla-severity-level)
     - Part 2B: [Adjust the `Help Topic` from `Report a Problem` to `Business Critical Outage`](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#update-the-help-topic)
     - Part 2C: [View the Ticket Thread to see the changes we made to the SLA and Help Topic](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#view-ticket-thread-log-to-see-the-changes-we-made-to-the-sla-and-help-topic)
-- Part 3: [Assign Karen Doe's ticket to the Online Banking Team]()
-- Part 4: []()
+- Part 3: [Assign Karen Doe's ticket to the Online Banking Team](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#assign-karen-does-ticket-to-a-team-online-banking)
+    - Part 3A: [Log out as `John Doe` and log in as `Jane Doe` who is a member of the `Online Banking` Team.](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#log-out-and-log-back-in-as-jane-to-work-the-ticket)
+- Part 4: [Work the Ticket from User `Karen Doe` as Agent `Jane Doe`](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#work-the-ticket)
 - Part 5: []()
 - Part 6: []()
 - Part 7: []()
@@ -379,7 +380,7 @@ Now the ticket has been assigned to the `Online Banking` team, as shown below.
 <br />
 
 
-<h3>As User Jane, Assign The Ticket To Yourself</h3>
+<h3>As Agent Jane, Assign The Ticket To Yourself</h3>
 
 - To assign the ticket to yourself, click on the hypertext link in the **Assigned To** field.
 
