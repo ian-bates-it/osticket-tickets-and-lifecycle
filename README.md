@@ -1,5 +1,45 @@
+<p align="center">
+<img src="https://github.com/user-attachments/assets/62049631-cb63-4385-a098-220fc4011f6b" alt="osTicket Logo"/>
+</p>
 
-# osTicket Tickets and Ticket Lifecycle
+# Chapter 3: osTicket Tickets and Ticket Lifecycle
+
+- 
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Internet Information Services (IIS)
+- osTicket Software version 1.15.8 
+- Mcirosoft Visual C++ Redistributable (x86)
+- IIS URL Rewrite Module 2
+- PHP Manager For IIS 
+- PHP version 7.3.8 
+- MySQL version 5.5.62 
+- HeidiSQL version 12.3.0.6589
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10 Pro (21H2) 
+
+<h2>High-Level Configuration Steps</h2>
+
+- Part 1: [Create a Support Ticket as an End-User (_from `Karen Doe`_)](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#create-a-support-ticket-as-an-end-user)
+    - Part 1A: [Deliberately select a Help Topic that is not quite categorized correctly to simulate a typical user.](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#select-a-help-topic)
+    - Part 1B: [Provide a typical end-user summary of the issue (`Online Banking System is Down`)](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#new-ticket-issue-summary-and-details)
+- Part 2: [Log into osTicket as Agent `John Doe`](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#login-to-the-admin-panel-as-agent-john)
+    - Part 2A: [Adjust the SLA Severity Level from `Default SLA` to our highest severity level `Sev-A` since the entire network is down.](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#adjust-the-sla-severity-level)
+    - Part 2B: [Adjust the `Help Topic` from `Report a Problem` to `Business Critical Outage`](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#update-the-help-topic)
+    - Part 2C: [View the Ticket Thread to see the changes we made to the SLA and Help Topic](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle?tab=readme-ov-file#view-ticket-thread-log-to-see-the-changes-we-made-to-the-sla-and-help-topic)
+- Part 3: [Assign Karen Doe's ticket to the Online Banking Team]()
+- Part 4: []()
+- Part 5: []()
+- Part 6: []()
+- Part 7: []()
+- Part 8: []()
+- Part 9: []()
+- Part 10: []()
 
 
 ---
@@ -17,7 +57,7 @@
 - On the **Support Center** homepage (`https://http://localhost/osTicket/`), click the `Open a New Ticket` button as shown below.
 
 
-  <img src="https://github.com/user-attachments/assets/fb83128d-3126-4297-b853-e53e0aba804b" height="50%" width="50%" />
+  <img src="https://github.com/user-attachments/assets/fb83128d-3126-4297-b853-e53e0aba804b" height="80%" width="80%" />
 
 
 <br />
@@ -31,7 +71,7 @@
 
 - An osTicket User must have a full name and email address which I entered as shown below.
 
-![image](https://github.com/user-attachments/assets/7dc1ac62-c063-496c-b34b-9b511c7bc38d)
+  <img src="https://github.com/user-attachments/assets/7dc1ac62-c063-496c-b34b-9b511c7bc38d" height="100%" width="100%" />
 
 
 
@@ -242,7 +282,7 @@
 
 ---
 
-<h2>Assign Karen Doe's Ticket To A Team (`Online Banking`)/h2>
+<h2>Assign Karen Doe's Ticket To A Team (`Online Banking`)</h2>
 
 <h3>Step 1. Ensure Team has at least 1 agent member</h3>
 
